@@ -1,0 +1,32 @@
+[
+    {
+        "id": "lj01f01",
+        "tipo": "freezer",
+        "temperatura": -10
+    },
+    {
+        "id": "lj01g01",
+        "tipo": "geladeira",
+        "temperatura": 5
+    },
+    {
+        "id": "lj01f01",
+        "tipo": "freezer",
+        "temperatura": -5
+    },
+    {
+        "id": "lj01g01",
+        "tipo": "geladeira",
+        "temperatura": 15
+    },
+    {
+        "id": "lj01f01",
+        "tipo": "freezer",
+        "temperatura": -30
+    },
+    {
+        "id": "lj01g01",
+        "tipo": "geladeira",
+        "temperatura": 0
+    }
+]
